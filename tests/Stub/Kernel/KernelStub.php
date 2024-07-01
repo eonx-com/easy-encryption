@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace EonX\EasyEncryption\Tests\Stub\HttpKernel;
+namespace EonX\EasyEncryption\Tests\Stub\Kernel;
 
 use EonX\EasyEncryption\Bundle\EasyEncryptionBundle;
 use Symfony\Component\Config\Loader\LoaderInterface;
